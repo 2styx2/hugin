@@ -5,5 +5,5 @@
 void kernel_main(void)
 {
     terminal_initialize();
-    printf("## Hugin OS ##\n");
+    printf("## Hugin OS ##\nload...");
 }

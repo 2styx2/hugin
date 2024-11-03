@@ -10,3 +10,12 @@
 - xorssiso
 - qemu
 
+# TODO
+- move set cursor from tty to input
+- interupts 
+- timer
+- basic terminal
+- heap managment(malloc)
+- paging 
+- memory
+
